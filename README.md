@@ -41,6 +41,15 @@ This project implements a relational **Library Management System** using **MySQL
 - **Many-to-Many**
   - Books ↔ Authors via `BookAuthors`
 
+<br>
+<br>
+
+### ERD
+
+![ERD Diagram](lms_erd.jpg)
+
+<br>
+
 ---
 
 ## 📂 How to Use
